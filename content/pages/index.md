@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/crossroads.jpg
-    background_image_opacity: 65
+    background_image_opacity: 85
     content: >-
       # Shopping for a cause, right to your door
 
