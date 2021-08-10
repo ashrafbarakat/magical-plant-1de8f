@@ -1,5 +1,5 @@
 ---
-title: Store
+title: Shop
 layout: store
 sections:
   - type: store_section
