@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '11'
-price: '100.00'
+price: '1.00'
 title: Advanced Fusce sagittis
 description: 'Custom description.'
 default_thumbnail_image: images/plant9.jpg
