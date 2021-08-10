@@ -3,14 +3,14 @@ title: Posters
 layout: category
 order: 5
 seo:
-  title: Summer plants
+  title: Posters
   description: This is the store page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Summer plants
+      value: Posters
       keyName: property
     - name: 'og:description'
       value: This is the store page
