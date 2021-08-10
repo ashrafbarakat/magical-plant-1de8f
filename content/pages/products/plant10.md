@@ -2,7 +2,7 @@
 layout: product
 id: '10'
 price: '100.00'
-title: Fusce sagittis
+title: Advanced Fusce sagittis
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/plant9.jpg
 default_original_image: images/plant9-lg.jpg
