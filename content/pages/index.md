@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/pattern.jpg
-    background_image_opacity: 60
+    background_image_opacity: 40
     content: >-
       # Shopping for a cause, right to your door
 
