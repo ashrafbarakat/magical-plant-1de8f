@@ -15,7 +15,7 @@ sections:
     actions:
       - title: See all items
         url: /store
-        arrow: false
+        arrow: true
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section
